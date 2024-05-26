@@ -1,5 +1,6 @@
 
-
+Student at Ecole 42, I am passionate about science and technology, particularly data and artificial intelligence. I am currently undertaking a work-study placement as a Software Architecture Engineer, where I am applying my skills to design solutions for industries.
+I am always on the lookout for knowledge and new opportunities, and I am motivated by continuous learning and exploring new horizons.
 
 ---
 
